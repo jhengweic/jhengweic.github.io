@@ -1,9 +1,9 @@
 
 TITLE: 
-Render - One Page Responsive Free HTML5 template
+Shift - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by FreeHTML5.co
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
@@ -39,8 +39,7 @@ http://daneden.me/animate
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Superfish Menu
-http://users.tpg.com.au/j_birch/plugins/superfish/examples/
+Demo Images:
+http://unsplash.com
+http://blog.gessato.com
 
-hoverIntent
-https://github.com/briancherne/jquery-hoverIntent
